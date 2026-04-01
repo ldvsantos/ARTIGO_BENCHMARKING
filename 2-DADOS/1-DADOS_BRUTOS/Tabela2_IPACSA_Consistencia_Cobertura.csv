@@ -1,0 +1,13 @@
+Parcela,Cultura,n,n_alta,consistencia,cobertura_bruta,cobertura_unica
+CT,Cowpea,9,0,0,0,0
+CT,Millet,9,0,0,0,0
+CT,Pigeon pea,9,0,0,0,0
+CT,Sunn hemp,9,3,0.3333333333333333,0,0
+MT,Cowpea,9,0,0,0,0
+MT,Millet,9,0,0,0,0
+MT,Pigeon pea,9,3,0.3333333333333333,0,0
+MT,Sunn hemp,9,3,0.3333333333333333,0,0
+NT,Cowpea,9,0,0,0,0
+NT,Millet,9,3,0.3333333333333333,0,0
+NT,Pigeon pea,9,3,0.3333333333333333,0,0
+NT,Sunn hemp,9,3,0.3333333333333333,0,0
