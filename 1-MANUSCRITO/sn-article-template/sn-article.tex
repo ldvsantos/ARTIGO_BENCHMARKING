@@ -22,6 +22,7 @@
 \usepackage{algpseudocode}%
 \usepackage{listings}%
 \usepackage{tikz}%
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning, calc}%
 \usepackage{subcaption}%
 
 \raggedbottom
@@ -186,7 +187,7 @@ A importância das variáveis foi avaliada por análise de ablação, na qual ca
 
 \subsection{Paradigma 5: Regressão por \textit{Random Forest}}\label{subsec:rf}
 
-Modelos de \textit{Random Forest} foram treinados com o pacote \texttt{randomForest} utilizando 500 árvores, $\lfloor \sqrt{p} \rfloor = 4$ variáveis amostradas aleatoriamente em cada divisão e tamanho mínimo de nó terminal igual a~5. A escolha de $\text{mtry} = \lfloor \sqrt{p} \rfloor$ em vez de $\lfloor p/3 \rfloor$ reduz a correlação entre árvores e confere maior estabilidade ao \textit{ensemble} quando a razão $n/p$ é moderada ($\approx 7{,}2$). A convergência do erro \textit{out-of-bag} (OOB-MSE) foi verificada por meio de curva OOB-MSE $\times$ número de árvores, e estimativas de erro OOB forneceram métrica interna de validação. A importância das variáveis foi quantificada por duas vias complementares, o incremento percentual no erro quadrático médio (\%IncMSE) após permutação de cada preditor e valores SHAP globais obtidos com o pacote \texttt{DALEX} (500 permutações). Intervalos de confiança a 95\% para as predições de IQS foram estimados pelo método \textit{infinitesimal jackknife} implementado no pacote \texttt{randomForestCI}. O IQS predito foi definido como
+Modelos de \textit{Random Forest} foram treinados com o pacote \texttt{randomForest} utilizando 500 árvores, $\lfloor \sqrt{q} \rfloor = 4$ variáveis amostradas aleatoriamente em cada divisão e tamanho mínimo de nó terminal igual a~5. A escolha de $\text{mtry} = \lfloor \sqrt{q} \rfloor$ em vez de $\lfloor q/3 \rfloor$ reduz a correlação entre árvores e confere maior estabilidade ao \textit{ensemble} quando a razão $n/q$ é moderada ($\approx 7{,}2$). A convergência do erro \textit{out-of-bag} (OOB-MSE) foi verificada por meio de curva OOB-MSE $\times$ número de árvores, e estimativas de erro OOB forneceram métrica interna de validação. A importância das variáveis foi quantificada por duas vias complementares, o incremento percentual no erro quadrático médio (\%IncMSE) após permutação de cada preditor e valores SHAP globais obtidos com o pacote \texttt{DALEX} (500 permutações). Intervalos de confiança a 95\% para as predições de IQS foram estimados pelo método \textit{infinitesimal jackknife} implementado no pacote \texttt{randomForestCI}. O IQS predito foi definido como
 \begin{equation}
 \text{IQS}_{\text{RF}} = \frac{1}{B}\sum_{b=1}^{B} T_b(\mathbf{x})
 \label{eq:rf}
@@ -262,7 +263,7 @@ RF      &       &       &       &       & 1,000 \\
 \end{tabular*}
 \end{table}
 
-A representação gráfica dessa matriz por heatmap anotado (Fig.~\ref{fig:heatmap}) permite identificar visualmente o agrupamento em blocos de concordância.
+O gradiente de cor separa o bloco SIF-MARS-RF (tons frios, $\rho > 0{,}99$) dos pares envolvendo ANOVA (tons quentes, $\rho < 0{,}60$; Fig.~\ref{fig:heatmap}), ao passo que o PLS-SEM ocupa faixa cromática intermediária ($\rho \approx 0{,}68$ com o bloco não linear), reforçando sua posição de transição entre os dois agrupamentos.
 
 \begin{figure}[ht]
 \centering
@@ -271,7 +272,7 @@ A representação gráfica dessa matriz por heatmap anotado (Fig.~\ref{fig:heatm
 \smallskip\noindent\textit{Nota:} Valores anotados em cada célula. Escala de cor de laranja ($\rho \approx 0{,}59$) a azul ($\rho = 1{,}00$).
 \end{figure}
 
-O gradiente de cor separa o bloco SIF-MARS-RF (tons frios, $\rho > 0{,}99$) dos pares envolvendo ANOVA (tons quentes, $\rho < 0{,}60$), ao passo que o PLS-SEM ocupa faixa cromática intermediária ($\rho \approx 0{,}68$ com o bloco não linear), reforçando sua posição de transição entre os dois agrupamentos. Para quantificar a magnitude prática dessa separação em termos de intercambialidade entre paradigmas, os limites de concordância obtidos pela análise de Bland--Altman \cite{BlandAltman1986} (Tabela~\ref{tab:blandaltman}) reforçaram quantitativamente essa estrutura tricamada. Os LoA entre pares do bloco SIF-MARS-RF variaram de $\pm 0{,}33$ (Fuzzy vs.\ RF) a $\pm 0{,}50$ (MARS vs.\ RF) na escala Blom, sugerindo substituibilidade prática em 30\% das comparações. Em contraste, os pares envolvendo o PLS-SEM apresentaram LoA intermediários ($\pm 1{,}63$--$1{,}68$, 30\% das comparações), e os pares com ANOVA exibiram LoA de até $\pm 1{,}93$ (40\% das comparações), indicando que a substituição do paradigma linear por qualquer alternativa não linear pode alterar posições de ranqueamento individuais.
+Os limites de concordância de Bland--Altman \cite{BlandAltman1986} (Tabela~\ref{tab:blandaltman}) reforçaram quantitativamente essa estrutura tricamada. Os LoA entre pares do bloco SIF-MARS-RF variaram de $\pm 0{,}33$ (Fuzzy vs.\ RF) a $\pm 0{,}50$ (MARS vs.\ RF) na escala Blom, sugerindo substituibilidade prática em 30\% das comparações. Em contraste, os pares envolvendo o PLS-SEM apresentaram LoA intermediários ($\pm 1{,}63$--$1{,}68$, 30\% das comparações), e os pares com ANOVA exibiram LoA de até $\pm 1{,}93$ (40\% das comparações), indicando que a substituição do paradigma linear por qualquer alternativa não linear pode alterar posições de ranqueamento individuais.
 
 \begin{table}[ht]
 \caption{Sumário da análise de Bland--Altman entre pares de paradigmas (escala Blom).}\label{tab:blandaltman}
@@ -294,7 +295,7 @@ ANOVA vs RF    & 0,00 & 0,946 & $-$1,854 & 1,854 \\
 \smallskip\noindent\textit{Nota:} $\bar{d}$, diferença média; $s_d$, desvio-padrão da diferença; LoA, limites de concordância ($\pm 1{,}96\,s_d$).
 \end{table}
 
-Três pares representativos, um de cada camada de concordância, foram selecionados para representação gráfica dos limites de Bland--Altman (Fig.~\ref{fig:ba_panel}).
+O par Fuzzy--RF (Fig.~\ref{fig:ba_panel}) exibe pontos concentrados na faixa $\pm 0{,}33$ com dispersão homogênea ao longo do eixo de médias, confirmando substituibilidade prática dentro do bloco não linear.
 
 \begin{figure}[ht]
 \centering
@@ -303,7 +304,9 @@ Três pares representativos, um de cada camada de concordância, foram seleciona
 \smallskip\noindent\textit{Nota:} Linha contínua, diferença média ($\bar{d} \approx 0$); linhas tracejadas, limites de concordância a $\pm 1{,}96\,s_d$.
 \end{figure}
 
-O par Fuzzy--RF exibe pontos concentrados na faixa $\pm 0{,}33$ com dispersão homogênea ao longo do eixo de médias, confirmando substituibilidade prática dentro do bloco não linear. O par ANOVA--Fuzzy, em contraste, apresenta padrão em leque que sugere viés proporcional ao nível do IQS \cite{Giavarina2015}, ao passo que o par PLS--RF ocupa posição intermediária (LoA\,$\approx \pm 1{,}63$), com aparente heteroscedasticidade nos valores extremos, indicando que a discordância é mais acentuada para combinações de manejo com qualidade inferior. Embora os diagramas de Bland--Altman quantifiquem a concordância absoluta, a variância compartilhada entre paradigmas pode ser avaliada por diagramas de dispersão 1:1, com o RF adotado como referência (Fig.~\ref{fig:scatter1to1}).
+O par ANOVA--Fuzzy, em contraste, apresenta padrão em leque que sugere viés proporcional ao nível do IQS \cite{Giavarina2015}, ao passo que o par PLS--RF ocupa posição intermediária (LoA\,$\approx \pm 1{,}63$), com aparente heteroscedasticidade nos valores extremos, indicando que a discordância é mais acentuada para combinações de manejo com qualidade inferior.
+
+Fuzzy ($\rho^2 = 0{,}990$) e MARS ($\rho^2 = 0{,}987$) alinham-se quase perfeitamente com a diagonal de identidade nos diagramas de dispersão 1:1 (Fig.~\ref{fig:scatter1to1}), ao passo que ANOVA ($\rho^2 = 0{,}363$) e PLS-SEM ($\rho^2 = 0{,}469$) apresentam dispersão pronunciada, com observações individuais desviando em até 1,5 unidades Blom da reta 1:1 \cite{Venkateswarlu2025}.
 
 \begin{figure}[ht]
 \centering
@@ -311,8 +314,6 @@ O par Fuzzy--RF exibe pontos concentrados na faixa $\pm 0{,}33$ com dispersão h
 \caption{Diagramas de dispersão 1:1 de IQS (escala Blom) entre cada paradigma e o RF como referência.}\label{fig:scatter1to1}
 \smallskip\noindent\textit{Nota:} Linha tracejada, identidade; linha contínua, regressão local. Valores de $\rho^2$ anotados em cada painel.
 \end{figure}
-
-Fuzzy ($\rho^2 = 0{,}990$) e MARS ($\rho^2 = 0{,}987$) alinham-se quase perfeitamente com a diagonal de identidade, ao passo que ANOVA ($\rho^2 = 0{,}363$) e PLS-SEM ($\rho^2 = 0{,}469$) apresentam dispersão pronunciada, com observações individuais desviando em até 1,5 unidades Blom da reta 1:1 \cite{Venkateswarlu2025}. 
 
 Essa magnitude de desvio implica que, para uma dada observação, o diagnóstico de qualidade ``alta'' ou ``baixa'' pode ser contingente ao paradigma quando se adota o limiar convencional da mediana, padrão que reforça a necessidade de métricas de concordância na avaliação de IQS \cite{Liu2025}. \cite{Kahsay2025}, ao compararem oito modelos de IQS (TDS/MDS $\times$ escore linear/não linear $\times$ IQI/NQI) em terras degradadas da Etiópia, verificaram que a função de escore não linear produziu índices sistematicamente 12--18\% superiores ao escore linear, com divergência amplificada em solos de baixa qualidade. 
 
@@ -387,18 +388,118 @@ Essa marginalidade pode refletir o número reduzido de níveis amostrais ($k = 5
 
 \subsection{Implicações para monitoramento e transferibilidade}\label{subsec:implications}
 
-Quando o interesse recai sobre ranqueamento de combinações manejo--cobertura em bases com $n \geq 50$, qualquer representante do bloco não linear (SIF, MARS ou RF) pode ser adotado com diferenças negligenciáveis ($\rho > 0{,}99$), dispensando análise de sensibilidade ao paradigma. Se a interpretabilidade dos caminhos causais entre domínios edáficos for prioritária, conforme recomendado em avaliações de indicadores compostos \cite{Cardoso2013}, o PLS-SEM oferece alternativa com divergência moderada em relação ao bloco não linear (LoA\,$\approx \pm 1{,}65$), embora a exclusão de indicadores por multicolinearidade possa comprometer a representatividade do domínio físico. O paradigma ANOVA/MDS permanece útil para compatibilidade com o extenso acervo de estudos que adotaram o protocolo de \cite{Andrews2002} e para bases com número reduzido de indicadores ($p < 10$), condição na qual vantagens de métodos não lineares tendem a ser marginais \cite{Bünemann2018}. Esse protocolo de seleção, esquematizado no Apêndice~\ref{secA1}, pode servir como referência para pesquisadores e extensionistas que necessitem justificar a escolha metodológica em avaliações de qualidade do solo.
+Quando o interesse recai sobre ranqueamento de combinações manejo--cobertura em bases com $n \geq 50$, qualquer representante do bloco não linear (SIF, MARS ou RF) pode ser adotado com diferenças negligenciáveis ($\rho > 0{,}99$), dispensando análise de sensibilidade ao paradigma. Se a interpretabilidade dos caminhos causais entre domínios edáficos for prioritária, conforme recomendado em avaliações de indicadores compostos \cite{Cardoso2013}, o PLS-SEM oferece alternativa com divergência moderada em relação ao bloco não linear (LoA\,$\approx \pm 1{,}65$), embora a exclusão de indicadores por multicolinearidade possa comprometer a representatividade do domínio físico. O paradigma ANOVA/MDS permanece útil para compatibilidade com o extenso acervo de estudos que adotaram o protocolo de \cite{Andrews2002} e para bases com número reduzido de indicadores ($q < 10$), condição na qual vantagens de métodos não lineares tendem a ser marginais \cite{Bünemann2018}. Esse protocolo de seleção, esquematizado na Fig.~\ref{fig:flowchart}, pode servir como referência para pesquisadores e extensionistas que necessitem justificar a escolha metodológica em avaliações de qualidade do solo.
 
-A generalização destes achados requer cautela. Os dados provêm de experimento conduzido sobre Argissolo com camada coesa \cite{LimaNeto2010} sob clima As$'$, condição na qual relações não lineares entre indicadores podem ser acentuadas pelo impedimento físico subsuperficial. Solos sem restrição física, ou sistemas com menor diversidade de práticas, poderiam exibir concordância inter-paradigma mais elevada, reduzindo a diferenciação entre famílias analíticas. \cite{Zhao2022}, em solo negro submetido a 19 anos de manejo conservacionista na China, verificaram que atributos físicos (estabilidade de agregados, porosidade) foram mais sensíveis ao tipo de preparo do que indicadores químicos, os quais responderam predominantemente à adubação. Em solos tropicais com camada coesa, a contribuição dos atributos físicos para o IQS tende a ser comprimida pela baixa diferenciação espacial na profundidade amostrada, o que pode amplificar a divergência entre paradigmas que competem por variância explicável em poucos indicadores físicos. A aplicação deste mesmo \textit{framework} a bases provenientes de outras classes de solo e regiões climáticas é uma direção promissora para investigações futuras, particularmente em Latossolos argilosos do Cerrado, onde \cite{DosSantos2021} já demonstraram a eficácia do IQS fuzzy na diferenciação entre sistemas de cobertura.
+\begin{figure}[!htb]
+\centering
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[
+    % --- node styles ---
+    startend/.style={rectangle, rounded corners=3pt, minimum width=4cm,
+        minimum height=0.6cm, text centered, draw=black, fill=black!8,
+        font=\scriptsize, text width=3.8cm},
+    dec/.style={diamond, aspect=2.2, minimum width=0.8cm,
+        text centered, draw=black, fill=white,
+        font=\scriptsize, text width=2.4cm, inner sep=1pt},
+    prio/.style={rectangle, rounded corners=3pt, minimum width=5cm,
+        minimum height=0.7cm, text centered, draw=black, fill=yellow!12,
+        font=\scriptsize\bfseries, text width=4.8cm},
+    rec/.style={rectangle, rounded corners=2pt, minimum width=3.6cm,
+        minimum height=0.5cm, text centered, draw=black, fill=green!10,
+        font=\scriptsize\bfseries, text width=3.4cm},
+    proc/.style={rectangle, rounded corners=2pt, minimum width=3.6cm,
+        minimum height=0.5cm, text centered, draw=black, fill=blue!8,
+        font=\scriptsize, text width=3.4cm},
+    warn/.style={rectangle, rounded corners=2pt, minimum width=3.6cm,
+        minimum height=0.5cm, text centered, draw=black, fill=orange!12,
+        font=\scriptsize, text width=3.4cm},
+    % --- arrow / label styles ---
+    arr/.style={-{Stealth[length=1.8mm]}, semithick},
+    lbl/.style={font=\tiny, fill=white, inner sep=1pt},
+    node distance=0.55cm and 1.6cm
+]
 
-Algumas limitações merecem menção. O PLS-SEM utilizou 11 dos 15 indicadores originais após exclusão de quatro variáveis por multicolinearidade (VIF\,$> 5$), o que pode subestimar a contribuição do domínio físico. A simulação Monte Carlo empregou 200 iterações com reamostragem do mesmo conjunto de dados, preservando a estrutura de correlação original sem substituir validação externa. A classificação do PLS-SEM como ``não linear'' em $H_2$ é discutível, dado que o modelo especifica caminhos lineares entre construtos; uma reclassificação como ``misto'' fortaleceria a distinção entre paradigmas puramente não lineares e o paradigma linear.
+%%% ================= ROW 0: ENTRADA =================
+\node (start) [startend]
+    {Base de dados IQS\\$q$ indicadores, $n$ observa\c{c}\~{o}es};
+
+%%% ================= ROW 1: GATE amostral =================
+\node (d1) [dec, below=0.6cm of start] {$n \geq 50$?};
+\node (w1) [warn, right=2cm of d1]
+    {$\bar{W} < 0{,}78$ com $n < 30$;\\aumentar $n$ ou \textit{bootstrap}};
+
+%%% ================= ROW 2: GATE dimensionalidade =================
+\node (d2) [dec, below=0.6cm of d1] {$q < 10$\\indicadores?};
+\node (r_lowq) [rec, right=2cm of d2]
+    {ANOVA/MDS\\(ganho NL marginal)};
+
+%%% ================= ROW 3: RAMIFICA\c{C}\~{A}O POR PRIORIDADE =================
+\node (prio) [prio, below=0.7cm of d2]
+    {Prioridade anal\'{i}tica?};
+
+%%% ================= ROW 4: TR\^{E}S RECOMENDA\c{C}\~{O}ES =================
+\node (nlrec) [rec, below=0.8cm of prio]
+    {SIF, MARS ou RF\\($\rho > 0{,}99$; LoA $< \pm 0{,}50$;\\substitu\'{i}veis entre si)};
+\node (pls)   [proc, left=1.6cm of nlrec]
+    {PLS-SEM\\(LoA $\approx \pm 1{,}65$\\vs.\ bloco NL)};
+\node (anova) [proc, right=1.6cm of nlrec]
+    {ANOVA/MDS\\($\rho < 0{,}60$; LoA $> \pm 1{,}85$\\com bloco NL)};
+
+%%% ================= ROW 5: RESSALVAS =================
+\node (pls_w)   [warn, below=0.35cm of pls]
+    {VIF $> 5$ excluiu 4 indicadores;\\dom\'{i}nio f\'{i}sico sub-representado};
+\node (anova_w) [warn, below=0.35cm of anova]
+    {50\% de invers\~{o}es nas posi\c{c}\~{o}es\\intermedi\'{a}rias; sensibilidade\\obrigat\'{o}ria};
+
+%%% ================= ROW 6: SA\'{I}DA =================
+\node (endnode) [startend, below=1cm of nlrec]
+    {Reportar paradigma; para posi\c{c}\~{o}es\\intermedi\'{a}rias do ranqueamento,\\incluir an\'{a}lise de sensibilidade};
+
+%%% ================= SETAS =================
+%% Gates bin\'{a}rios
+\draw [arr] (start) -- (d1);
+\draw [arr] (d1) -- node[lbl, left] {Sim} (d2);
+\draw [arr] (d1) -- node[lbl, above] {N\~{a}o} (w1);
+\draw [arr] (d2) -- node[lbl, left] {N\~{a}o} (prio);
+\draw [arr] (d2) -- node[lbl, above] {Sim} (r_lowq);
+
+%% Ramifica\c{c}\~{a}o tripla a partir de PRIORIDADE
+\draw [arr] (prio.south) -- node[lbl, right, pos=0.4]
+    {M\'{a}xima concord\^{a}ncia} (nlrec);
+\draw [arr] (prio.west) -| node[lbl, above left, pos=0.25]
+    {Interpreta\c{c}\~{a}o causal} (pls);
+\draw [arr] (prio.east) -| node[lbl, above right, pos=0.25]
+    {Comparabilidade hist\'{o}rica} (anova);
+
+%% Ressalvas
+\draw [arr] (pls) -- (pls_w);
+\draw [arr] (anova) -- (anova_w);
+
+%% Converg\^{e}ncia para sa\'{i}da
+\draw [arr] (nlrec) -- (endnode);
+\draw [arr, dashed, gray] (pls_w.south) |- (endnode.west);
+\draw [arr, dashed, gray] (anova_w.south) |- (endnode.east);
+
+%% Retorno: $n < 50$
+\draw [arr, dashed, gray] (w1.south) |- ([yshift=-0.2cm]w1.south) -| ([xshift=1.5cm]d1.south) |- (d2.east);
+
+\end{tikzpicture}%
+}% end resizebox
+\caption{Fluxograma decis\'{o}rio para sele\c{c}\~{a}o de paradigma de IQS.}\label{fig:flowchart}
+\smallskip\noindent\textit{Nota:} Caixas verdes, recomenda\c{c}\~{a}o prim\'{a}ria; azuis, alternativa com ressalva; laranjas, advert\^{e}ncia operacional; amarela, n\'{o} de ramifica\c{c}\~{a}o multicrit\'{e}rio. Limiares de $\rho$ e LoA derivados da Tabela~\ref{tab:blandaltman}; invers\~{o}es de posto documentadas na Tabela~\ref{tab:ranking}.
+\end{figure}
+
+A generalização destes achados requer cautela. Os dados provêm de experimento conduzido sobre Argissolo com camada coesa \cite{LimaNeto2010} sob clima As$'$, condição na qual relações não lineares entre indicadores podem ser acentuadas pelo impedimento físico subsuperficial. Solos sem restrição física, ou sistemas com menor diversidade de práticas, poderiam exibir concordância inter-paradigma mais elevada, reduzindo a diferenciação entre famílias analíticas. \cite{Zhao2022}, em solo negro submetido a 19 anos de manejo conservacionista na China, verificaram que atributos físicos (estabilidade de agregados, porosidade) foram mais sensíveis ao tipo de preparo do que indicadores químicos, os quais responderam predominantemente à adubação. 
+
+Em solos tropicais com camada coesa, a contribuição dos atributos físicos para o IQS tende a ser comprimida pela baixa diferenciação espacial na profundidade amostrada, o que pode amplificar a divergência entre paradigmas que competem por variância explicável em poucos indicadores físicos. A aplicação deste mesmo \textit{framework} a bases provenientes de outras classes de solo e regiões climáticas é uma direção promissora para investigações futuras, particularmente em Latossolos argilosos do Cerrado, onde \cite{DosSantos2021} já demonstraram a eficácia do IQS fuzzy na diferenciação entre sistemas de cobertura.
+
 
 %% ================================================================
 %%                    SEÇÃO 5: CONCLUSÃO
 %% ================================================================
 \section{Conclusão}\label{sec:conclusion}
 
-A concordância inter-paradigma foi significativa ($W = 0{,}81$), confirmando $H_1$, porém distribuiu-se em três camadas de intensidade que sustentam $H_2$: SIF, MARS e RF são mutuamente substituíveis (30\% dos pares, $\rho > 0{,}99$, LoA\,$< \pm 0{,}50$), o PLS-SEM diverge moderadamente (30\% dos pares, LoA\,$\approx \pm 1{,}65$) e a ANOVA pode inverter posições intermediárias de manejo (40\% dos pares, LoA\,$> \pm 1{,}85$). A concordância estabilizou acima de $n \approx 50$, oferecendo suporte parcial a $H_3$. Esses limiares de substituibilidade podem orientar a seleção de paradigma em avaliações de IQS, embora sua generalização a outras classes de solo e regimes climáticos requeira validação externa.
+Os cinco paradigmas avaliados apresentaram concordância global significativa no ranqueamento de combinações manejo--cobertura, indicando que a escolha do método analítico, embora influencie a magnitude dos escores, tende a preservar a ordenação relativa dos sistemas de uso do solo. A convergência, contudo, distribuiu-se em três camadas de intensidade consistentes com $H_2$, nas quais paradigmas com capacidade de capturar relações não lineares entre indicadores (SIF, MARS e RF) mostraram-se mutuamente substituíveis, ao passo que o PLS-SEM divergiu moderadamente e o paradigma ANOVA/MDS exibiu a maior discordância, com potencial para inverter posições intermediárias do ranqueamento. A estabilização da concordância a partir de amostras de tamanho moderado sugere que bases de dados frequentemente disponíveis em experimentos de longa duração já podem ser suficientes para garantir reprodutibilidade inter-paradigma. A generalização desses achados a outras classes de solo, regimes climáticos e configurações experimentais constitui uma direção promissora para investigações futuras.
 
 \backmatter
 
@@ -423,10 +524,6 @@ Todas as rotinas R e Python utilizadas neste estudo, bem como o conjunto de dado
 \end{itemize}
 
 \begin{appendices}
-
-\section{Fluxograma decisório para seleção de paradigma}\label{secA1}
-
-%% [Fluxograma TikZ A INSERIR]
 
 \section{Base de regras fuzzy completa}\label{secA2}
 
