@@ -8,45 +8,45 @@ Database file #1: sn-bibliography.bib
 sn-basic.bst [2024/07/19 v1.1 bibliography style]
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Warning--can't use both volume and number fields in Hair2019
-You've used 70 entries,
+You've used 67 entries,
             3567 wiz_defined-function locations,
-            1258 strings with 21382 characters,
-and the built_in function-call counts, 62797 in all, are:
-= -- 5953
-> -- 2414
+            1238 strings with 20641 characters,
+and the built_in function-call counts, 60185 in all, are:
+= -- 5711
+> -- 2301
 < -- 31
-+ -- 934
-- -- 717
-* -- 5522
-:= -- 9070
-add.period$ -- 130
-call.type$ -- 70
-change.case$ -- 616
-chr.to.int$ -- 82
-cite$ -- 71
-duplicate$ -- 4754
-empty$ -- 5192
-format.name$ -- 919
-if$ -- 13173
++ -- 890
+- -- 684
+* -- 5288
+:= -- 8685
+add.period$ -- 124
+call.type$ -- 67
+change.case$ -- 590
+chr.to.int$ -- 79
+cite$ -- 68
+duplicate$ -- 4560
+empty$ -- 4982
+format.name$ -- 877
+if$ -- 12626
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 554
-newline$ -- 219
-num.names$ -- 280
-pop$ -- 1451
+missing$ -- 530
+newline$ -- 210
+num.names$ -- 268
+pop$ -- 1388
 preamble$ -- 1
-purify$ -- 537
+purify$ -- 514
 quote$ -- 0
-skip$ -- 1347
+skip$ -- 1288
 stack$ -- 0
-substring$ -- 5534
-swap$ -- 1376
+substring$ -- 5329
+swap$ -- 1322
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 621
+type$ -- 594
 warning$ -- 1
-while$ -- 380
+while$ -- 365
 width$ -- 0
-write$ -- 842
+write$ -- 806
 (There was 1 warning)

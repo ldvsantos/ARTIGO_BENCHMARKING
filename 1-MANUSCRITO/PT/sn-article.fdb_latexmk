@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex sn-article"] 1775151500.6923 "sn-article.aux" "sn-article.bbl" "sn-article" 1775152219.47494 0
+["bibtex sn-article"] 1775155789.58917 "sn-article.aux" "sn-article.bbl" "sn-article" 1775155799.36144 0
   "./sn-basic.bst" 1775049971 35515 7cc706cef7829df727b1420a5d0e9fe4 ""
-  "./sn-bibliography.bib" 1775151364 31047 a5e03ab2511c46b4b77609f05e07c8cc ""
-  "sn-article.aux" 1775152218 19130 ef9375945f9e27f5573eff3d6fee1b36 "pdflatex"
+  "./sn-bibliography.bib" 1775155743 29718 919879f969b7794d9406e14c36fdb97d ""
+  "sn-article.aux" 1775155797 18820 1a19f20c9e3bd2d78c8669090f2f1dd0 "pdflatex"
   (generated)
   "sn-article.bbl"
   "sn-article.blg"
   (rewritten before read)
-["pdflatex"] 1775152212.9155 "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex" "sn-article.pdf" "sn-article" 1775152219.47598 0
+["pdflatex"] 1775155790.21445 "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex" "sn-article.pdf" "sn-article" 1775155799.36294 0
   "../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png" 1775149882 233368 2c4d6806eb09e14dbc931cf0029c28ee ""
   "../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png" 1775149891 221322 5a49167fb0f64da6461af8fe3f546e6d ""
   "../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg" 1757295554 2125145 d75dc7cdf6eeb4f86097b359298c3c69 ""
@@ -248,11 +248,11 @@
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/vidal/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex" 1775152211 85581 825cf071435b09910866da070785beb7 ""
-  "sn-article.aux" 1775152218 19130 ef9375945f9e27f5573eff3d6fee1b36 "pdflatex"
-  "sn-article.bbl" 1775151501 20421 9d08038a1c0df14d50677cee0e5f5271 "bibtex sn-article"
-  "sn-article.out" 1775152218 5067 a220f074d1222adeadb09c952b5ca9a6 "pdflatex"
-  "sn-article.tex" 1775152211 85581 825cf071435b09910866da070785beb7 ""
+  "c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex" 1775155778 85405 4f06436c5ac98cd29fc5895438a1266f ""
+  "sn-article.aux" 1775155797 18820 1a19f20c9e3bd2d78c8669090f2f1dd0 "pdflatex"
+  "sn-article.bbl" 1775155790 19422 2be1acd81a253faba3ca4b1fb8b561ab "bibtex sn-article"
+  "sn-article.out" 1775155797 5067 a220f074d1222adeadb09c952b5ca9a6 "pdflatex"
+  "sn-article.tex" 1775155778 85405 4f06436c5ac98cd29fc5895438a1266f ""
   "sn-jnl.cls" 1775049967 55857 c14ef9d34b3d95356940eaf177aff85f ""
   (generated)
   "sn-article.aux"

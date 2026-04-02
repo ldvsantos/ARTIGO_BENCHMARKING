@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -17,7 +17,7 @@ Adak S, Bandyopadhyay K, Purakayastha TJ, et~al (2023) Impact of contrasting
 \bibitem[{Andrews et~al.(2002)Andrews, Karlen, and Cambardella}]{Andrews2002}
 Andrews SS, Karlen DL, Cambardella CA (2002) The soil management assessment
   framework: a quantitative soil quality evaluation method. Soil Science
-  Society of America Journal 66(6):1945--1962. \doi{10.2136/sssaj2002.1945}
+  Society of America Journal 66(6):1945--1962. \doi{10.2136/sssaj2004.1945}
 
 \bibitem[{Angelini et~al.(2024)Angelini, Heuvelink, Kempen, and
   Morr\'{a}s}]{Angelini2024}
@@ -51,13 +51,6 @@ Blom G (1958) Statistical estimates and transformed beta-variables. Wiley New
 Breiman L (2001) Random forests. Machine Learning 45(1):5--32.
   \doi{10.1023/A:1010933404324}
 
-\bibitem[{Briliawan et~al.(2022)Briliawan, Hairiah, van Noordwijk, and
-  Cadisch}]{Briliawan2022}
-Briliawan O, Hairiah K, van Noordwijk M, et~al (2022) Machine learning versus
-  fuzzy inference: comparing soil quality index approaches for {Ultisol}
-  agroforestry in {Indonesia}. Geoderma Regional 31:e00583.
-  \doi{10.1016/j.geodrs.2022.e00583}
-
 \bibitem[{Brito et~al.(2024)Brito, Kuhlicke, and Marx}]{Brito2024}
 Brito MM, Kuhlicke C, Marx A (2024) Compound and cascading drought impacts on
   key ecosystem services in {Europe}. Environmental Research Letters 19:024040.
@@ -76,11 +69,6 @@ Cardoso EJBN, Vasconcellos RLF, Bini D, et~al (2013) Soil health: looking for
   suitable indicators. what should be considered to assess the effects of use
   and management on soil health? Scientia Agricola 70(4):274--289.
   \doi{10.1590/S0103-90162013000400009}
-
-\bibitem[{Chaudhry et~al.(2024)Chaudhry, Pacci, and Dengiz}]{Chaudhry2024}
-Chaudhry A, Pacci S, Dengiz O (2024) Comparison of three soil quality index
-  approaches coupled with a machine learning approach for assessing degradation
-  of salt-affected soils. Sensors 24:1063. \doi{10.3390/s24041063}
 
 \bibitem[{Cherubin et~al.(2016)Cherubin, Karlen, Cerri, Franco, Tormena,
   Davies, and Cerri}]{Cherubin2016}
@@ -104,7 +92,7 @@ Doran JW (2002) Soil health and global sustainability: translating science into
 Dos~Santos WP, Silva MLN, Avanzi JC, et~al (2021) Soil quality assessment using
   erosion-sensitive indices and fuzzy membership under different cropping
   systems on a {Ferralsol} in {Brazil}. Geoderma Regional 26:e00413.
-  \doi{10.1016/j.geodrs.2021.e00413}
+  \doi{10.1016/j.geodrs.2021.e00385}
 
 \bibitem[{Emami et~al.(2024)Emami, Chavoshi, Ayoubi, and Honarjoo}]{Emami2024}
 Emami NS, Chavoshi E, Ayoubi S, et~al (2024) Comprehensive assessment of soil
@@ -115,7 +103,7 @@ Emami NS, Chavoshi E, Ayoubi S, et~al (2024) Comprehensive assessment of soil
   Furlani, and Fernandes}]{Fernandes2022}
 Fernandes MMH, Coelho AP, da~Silva MF, et~al (2022) Do fallow in the off-season
   and crop succession promote differences in soil aggregation in no-tillage
-  systems? Geoderma 420:115873. \doi{10.1016/j.geoderma.2022.115873}
+  systems? Geoderma 420:115873. \doi{10.1016/j.geoderma.2022.115725}
 
 \bibitem[{Friedman(1991)}]{Friedman1991}
 Friedman JH (1991) Multivariate adaptive regression splines. The Annals of
@@ -277,7 +265,7 @@ Pacci S, Dengiz O, Alaboz P, et~al (2026) A smart approach to soil quality
 
 \bibitem[{de~Paul~Obade and Lal(2016)}]{Obade2016}
 de~Paul~Obade V, Lal R (2016) Towards a standard technique for soil quality
-  assessment. Geoderma 271:116--126. \doi{10.1016/j.geoderma.2016.02.019}
+  assessment. Geoderma 271:116--126. \doi{10.1016/j.geoderma.2015.11.023}
 
 \bibitem[{Peoples et~al.(2009)Peoples, Brockwell, Herridge, Rochester, Alves,
   Urquiaga, Boddey, Dakora, Bhattarai, Maskey, Sampet, Rerkasem, Khan,
@@ -286,17 +274,11 @@ Peoples MB, Brockwell J, Herridge DF, et~al (2009) The contributions of
   nitrogen-fixing crop legumes to the productivity of agricultural systems.
   Symbiosis 48:1--17. \doi{10.1007/BF03179980}
 
-\bibitem[{Pheap et~al.(2025)Pheap, Lefr{\'e}vre, Tivet, and Saito}]{Pheap2025}
-Pheap S, Lefr{\'e}vre C, Tivet F, et~al (2025) Fuzzy soil quality indexing for
-  evaluating rice-based cropping systems under conservation agriculture in
-  {Cambodia}. Agriculture, Ecosystems \& Environment 361:108812.
-  \doi{10.1016/j.agee.2024.108812}
-
 \bibitem[{Ray et~al.(2022)Ray, Danks, and Calvo~Mora}]{Ray2022}
 Ray S, Danks NP, Calvo~Mora A (2022) Building and estimating structural
   equation models with the {seminr} package in {R}. Structural Equation
   Modeling: A Multidisciplinary Journal 29(3):469--478.
-  \doi{10.1080/10705511.2021.2023014}
+  \doi{10.32614/cran.package.seminr}
 
 \bibitem[{Rezaee et~al.(2020)Rezaee, Moosavi, Davatgar, and
   Sepaskhah}]{Rezaee2020}
