@@ -10,43 +10,43 @@ Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Warning--can't use both volume and number fields in Hair2019
 You've used 70 entries,
             3567 wiz_defined-function locations,
-            1258 strings with 21382 characters,
-and the built_in function-call counts, 62797 in all, are:
-= -- 5953
-> -- 2414
+            1259 strings with 21400 characters,
+and the built_in function-call counts, 63333 in all, are:
+= -- 6009
+> -- 2441
 < -- 31
-+ -- 934
-- -- 717
-* -- 5522
-:= -- 9070
-add.period$ -- 130
++ -- 942
+- -- 725
+* -- 5583
+:= -- 9138
+add.period$ -- 131
 call.type$ -- 70
-change.case$ -- 616
+change.case$ -- 618
 chr.to.int$ -- 82
 cite$ -- 71
-duplicate$ -- 4754
-empty$ -- 5192
-format.name$ -- 919
-if$ -- 13173
+duplicate$ -- 4788
+empty$ -- 5234
+format.name$ -- 931
+if$ -- 13292
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 554
+missing$ -- 556
 newline$ -- 219
 num.names$ -- 280
-pop$ -- 1451
+pop$ -- 1458
 preamble$ -- 1
-purify$ -- 537
+purify$ -- 540
 quote$ -- 0
-skip$ -- 1347
+skip$ -- 1356
 stack$ -- 0
-substring$ -- 5534
-swap$ -- 1376
+substring$ -- 5607
+swap$ -- 1378
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 621
 warning$ -- 1
-while$ -- 380
+while$ -- 382
 width$ -- 0
 write$ -- 842
 (There was 1 warning)

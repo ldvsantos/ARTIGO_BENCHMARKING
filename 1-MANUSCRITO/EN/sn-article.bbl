@@ -33,6 +33,11 @@ Assun{\c{c}}{\~{a}}o SJR, Pedrotti A, Gonzaga MIS, et~al (2023) Soil quality
   northeastern {Brazil}. Revista Caatinga 36(2):398--411.
   \doi{10.1590/1983-21252023v36n216rc}
 
+\bibitem[{Berriel and Perdomo(2023)}]{Berriel2023}
+Berriel V, Perdomo CH (2023) {Cajanus cajan}: a promissory high-nitrogen fixing
+  cover crop for {Uruguay}. Frontiers in Agronomy 5:1214811.
+  \doi{10.3389/fagro.2023.1214811}
+
 \bibitem[{Bland and Altman(1986)}]{BlandAltman1986}
 Bland JM, Altman DG (1986) Statistical methods for assessing agreement between
   two methods of clinical measurement. The Lancet 327(8476):307--310.
@@ -312,12 +317,6 @@ Santos JA, Pedrotti A, Holanda FSR, et~al (2024) Impacts of the tillage systems
   {Northeastern Brazil}. Soil Use and Management 40(1):e12929.
   \doi{10.1111/sum.13061}
 
-\bibitem[{Santos(2019)}]{Sara2019}
-Santos SJA (2019) Atributos microbiol{\'o}gicos e f{\'i}sicos do solo em
-  {\'a}rea experimental de longa dura{\c{c}}{\~a}o sob diferentes sistemas de
-  manejo. Disserta{\c{c}}{\~a}o de mestrado, Universidade Federal de Sergipe,
-  S{\~a}o Crist{\'o}v{\~a}o, SE
-
 \bibitem[{Sarstedt et~al.(2022)Sarstedt, Ringle, and Hair}]{Sarstedt2022}
 Sarstedt M, Ringle CM, Hair JF (2022) Partial least squares structural equation
   modeling. Handbook of Market Research pp 587--632.
@@ -349,11 +348,6 @@ Thomaz EL, Antoneli V (2022) Long-term soil quality decline due to the
 Torbert HA, Krueger E, Kurtener D (2008) Soil quality assessment using fuzzy
   modeling. International Agrophysics 22:365--370
 
-\bibitem[{Vance et~al.(1987)Vance, Brookes, and Jenkinson}]{Vance1987}
-Vance ED, Brookes PC, Jenkinson DS (1987) An extraction method for measuring
-  soil microbial biomass {C}. Soil Biology and Biochemistry 19(6):703--707.
-  \doi{10.1016/0038-0717(87)90052-6}
-
 \bibitem[{Venkateswarlu et~al.(2025)Venkateswarlu, Rallapalli, and
   Singh}]{Venkateswarlu2025}
 Venkateswarlu M, Rallapalli S, Singh A (2025) Macro and micronutrient based
@@ -369,6 +363,12 @@ Wadoux AMJC, Minasny B, McBratney AB (2020) Machine learning for digital soil
 Wager S, Hastie T, Efron B (2014) Confidence intervals for random forests: the
   jackknife and the infinitesimal jackknife. Journal of Machine Learning
   Research 15(1):1625--1651
+
+\bibitem[{Ye et~al.(2022)Ye, Sun, Zhao, Wang, and Guan}]{Ye2022}
+Ye Y, Sun X, Zhao J, et~al (2022) Establishing a soil quality index to assess
+  the effect of thinning on soil quality in a {Chinese} fir plantation.
+  European Journal of Forest Research 141:885--900.
+  \doi{10.1007/s10342-022-01471-7}
 
 \bibitem[{Yoshioka and Yoshioka(2024)}]{Yoshioka2024}
 Yoshioka H, Yoshioka Y (2024) Risk assessment of river water quality using

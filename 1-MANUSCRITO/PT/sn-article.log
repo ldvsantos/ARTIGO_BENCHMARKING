@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  2 APR 2026 10:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.23)  2 APR 2026 14:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/sn-article-template/sn-article.tex"
-(c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/sn-article-template/sn-article.tex
+**"c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex"
+(c:/Users/vidal/OneDrive/Documentos/13 - CLONEGIT/artigo-posdoc/7-ARTIGO_BENCHMARKING/1-MANUSCRITO/PT/sn-article.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
 (sn-jnl.cls
@@ -926,32 +926,32 @@ Package hyperref Info: Link coloring ON on input line 29.
 \c@lstlisting=\count380
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 69.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
  (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
  (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 69.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 71.
  (C:\Users\vidal\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
-(Font)              size <8> substituted on input line 69.
+(Font)              size <8> substituted on input line 71.
 
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 69.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 71.
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
-(Font)              size <6> substituted on input line 69.
+(Font)              size <6> substituted on input line 71.
 
-LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 69.
+LaTeX Font Info:    Calculating math sizes for size <9.03374> on input line 71.
 
 LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.51686> not available
-(Font)              size <5> substituted on input line 69.
+(Font)              size <5> substituted on input line 71.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -959,177 +959,198 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1
 
 {C:/Users/vidal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 69.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 71.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-
-Package natbib Warning: Citation `Yoshioka2024' on page 3 undefined on input line 87.
-
-
-Package natbib Warning: Citation `Brito2024' on page 3 undefined on input line 87.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-
-Package natbib Warning: Citation `Granata2024' on page 4 undefined on input line 89.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg, id=217, 3854.4pt x 2489.3pt>
+<../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg, id=236, 3854.4pt x 2489.3pt>
 File: ../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg Graphic file (type jpg)
 <use ../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg  used on input line 108.
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg  used on input line 110.
 (pdftex.def)             Requested size: 316.20227pt x 204.19989pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <../../2-DADOS/3-FIGURAS/fig_experimental_site.jpg>]
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 120.
-
-
-LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
-(Font)              size <5> substituted on input line 120.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 132.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 132.
+
+
+Overfull \hbox (13.66286pt too wide) in alignment at lines 132--180
+[] [] [] []
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
+Underfull \hbox (badness 1178) in paragraph at lines 223--224
+[]\OT1/cmr/m/n/10 Um mod-elo de cam-in-hos PLS hier^^Sarquico foi especi-fi-cado com cinco con-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-<../../2-DADOS/3-FIGURAS/fig_rf_importance.png, id=304, 505.89pt x 397.485pt>
-File: ../../2-DADOS/3-FIGURAS/fig_rf_importance.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_rf_importance.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_rf_importance.png  used on input line 254.
-(pdftex.def)             Requested size: 279.0pt x 219.21786pt.
-<../../2-DADOS/3-FIGURAS/fig_pdp_top4.png, id=312, 578.16pt x 433.62pt>
-File: ../../2-DADOS/3-FIGURAS/fig_pdp_top4.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_pdp_top4.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_pdp_top4.png  used on input line 263.
+Underfull \hbox (badness 1052) in paragraph at lines 253--254
+[]\OT1/cmr/m/n/10 Intervalos de con-fian^^Xca a 95% para as predi^^Xc~oes de IQS foram esti-ma-dos
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+<../../2-DADOS/3-FIGURAS/fig_rf_importance_34.png, id=361, 505.89pt x 614.295pt>
+File: ../../2-DADOS/3-FIGURAS/fig_rf_importance_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_rf_importance_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_rf_importance_34.png  used on input line 298.
+(pdftex.def)             Requested size: 279.0pt x 338.79124pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+<../../2-DADOS/3-FIGURAS/fig_pdp_top4_34.png, id=383, 578.16pt x 433.62pt>
+File: ../../2-DADOS/3-FIGURAS/fig_pdp_top4_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_pdp_top4_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_pdp_top4_34.png  used on input line 309.
 (pdftex.def)             Requested size: 372.0pt x 278.99794pt.
 
-Underfull \hbox (badness 1178) in paragraph at lines 264--264
+Underfull \hbox (badness 1178) in paragraph at lines 310--310
 []\OT1/cmr/bx/n/10.03749 Fig. 3\OT1/cmr/m/n/10 : |Cur-vas de depend^encia par-cial para os qua-tro indi-cadores de maior
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <../../2-DADOS/3-FIGURAS/fig_rf_importance.png>]
+ [14 <../../2-DADOS/3-FIGURAS/fig_rf_importance_34.png>]
+Underfull \hbox (badness 1448) in paragraph at lines 316--317
+[]\OT1/cmr/m/n/10 A triagem por VIF excluiu qua-tro indi-cadores (CTC=37,5; CMIC=23,9;
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12 <../../2-DADOS/3-FIGURAS/fig_pdp_top4.png>]
+ [15 <../../2-DADOS/3-FIGURAS/fig_pdp_top4_34.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13]
-<../../2-DADOS/3-FIGURAS/fig_heatmap_spearman.png, id=349, 397.485pt x 325.215pt>
-File: ../../2-DADOS/3-FIGURAS/fig_heatmap_spearman.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_heatmap_spearman.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_heatmap_spearman.png  used on input line 299.
-(pdftex.def)             Requested size: 204.60114pt x 167.40572pt.
-<../../2-DADOS/3-FIGURAS/fig_blandaltman_panel.png, id=354, 867.24pt x 289.08pt>
-File: ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel.png  used on input line 331.
-(pdftex.def)             Requested size: 372.0pt x 124.00201pt.
-<../../2-DADOS/3-FIGURAS/fig_scatter_1to1.png, id=360, 578.16pt x 505.89pt>
-File: ../../2-DADOS/3-FIGURAS/fig_scatter_1to1.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_scatter_1to1.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_scatter_1to1.png  used on input line 342.
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+<../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png, id=425, 867.24pt x 303.534pt>
+File: ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png  used on input line 376.
+(pdftex.def)             Requested size: 372.0pt x 130.20212pt.
+<../../2-DADOS/3-FIGURAS/fig_scatter_1to1_34.png, id=429, 578.16pt x 505.89pt>
+File: ../../2-DADOS/3-FIGURAS/fig_scatter_1to1_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_scatter_1to1_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_scatter_1to1_34.png  used on input line 385.
 (pdftex.def)             Requested size: 372.0pt x 325.49759pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <../../2-DADOS/3-FIGURAS/fig_heatmap_spearman.png>]
+ [18
+
+ <../../2-DADOS/3-FIGURAS/fig_blandaltman_panel_34.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15 <../../2-DADOS/3-FIGURAS/fig_blandaltman_panel.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16 <../../2-DADOS/3-FIGURAS/fig_scatter_1to1.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-<../../2-DADOS/3-FIGURAS/fig_boxplot_combo.png, id=441, 650.43pt x 469.755pt>
-File: ../../2-DADOS/3-FIGURAS/fig_boxplot_combo.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_boxplot_combo.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_boxplot_combo.png  used on input line 367.
-(pdftex.def)             Requested size: 372.0pt x 268.67345pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19 <../../2-DADOS/3-FIGURAS/fig_boxplot_combo.png>]
+ [19 <../../2-DADOS/3-FIGURAS/fig_scatter_1to1_34.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-<../../2-DADOS/3-FIGURAS/fig_mc_sensitivity.png, id=487, 505.89pt x 325.215pt>
-File: ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity.png Graphic file (type png)
-<use ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity.png>
-Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity.png  used on input line 414.
+<../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png, id=498, 722.7pt x 505.89pt>
+File: ../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png  used on input line 416.
+(pdftex.def)             Requested size: 372.0pt x 260.40117pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <../../2-DADOS/3-FIGURAS/fig_boxplot_combo_34.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+<../../2-DADOS/3-FIGURAS/fig_mc_sensitivity_34.png, id=544, 505.89pt x 325.215pt>
+File: ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity_34.png Graphic file (type png)
+<use ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity_34.png>
+Package pdftex.def Info: ../../2-DADOS/3-FIGURAS/fig_mc_sensitivity_34.png  used on input line 469.
 (pdftex.def)             Requested size: 279.0pt x 179.36008pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <../../2-DADOS/3-FIGURAS/fig_mc_sensitivity.png>]
+ [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-
-Package hyperref Warning: Difference (4) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 543.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24] (sn-article.bbl
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \hbox (badness 1189) in paragraph at lines 114--116
-[]\OT1/cmr/m/n/10 Giavarina D (2015) Under-stand-ing Bland Alt-man anal-y-sis. Bio-chemia Med-ica
- []
-
-
+ [25 <../../2-DADOS/3-FIGURAS/fig_mc_sensitivity_34.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
+
+Package hyperref Warning: Difference (4) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 604.
+
+(sn-article.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29])
-
-Package natbib Warning: There were undefined citations.
+ [29]
+Underfull \hbox (badness 1189) in paragraph at lines 129--131
+[]\OT1/cmr/m/n/10 Giavarina D (2015) Under-stand-ing Bland Alt-man anal-y-sis. Bio-chemia Med-ica
+ []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30] (sn-article.aux)
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35] (sn-article.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-29>
@@ -1140,20 +1161,20 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.985pt have occurred.
 
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
-(rerunfilecheck)             Checksum: E917AB127349872853012B14E6A7C8C9;5067.
+(rerunfilecheck)             Checksum: A220F074D1222ADEADB09C952B5CA9A6;5067.
  ) 
 Here is how much of TeX's memory you used:
- 27345 strings out of 467871
- 508431 string characters out of 5418376
- 905409 words of memory out of 5000000
- 55612 multiletter control sequences out of 15000+600000
- 661997 words of font info for 172 fonts, out of 8000000 for 9000
+ 27384 strings out of 467871
+ 508775 string characters out of 5418376
+ 906757 words of memory out of 5000000
+ 55636 multiletter control sequences out of 15000+600000
+ 662579 words of font info for 174 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 90i,13n,94p,2432b,847s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcrm1000.pk><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on sn-article.pdf (30 pages, 3977338 bytes).
+ 90i,13n,94p,1767b,847s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\vidal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\tcrm1000.pk><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/vidal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on sn-article.pdf (35 pages, 3880153 bytes).
 PDF statistics:
- 792 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 890 PDF objects out of 1000 (max. 8388607)
+ 154 named destinations out of 1000 (max. 500000)
+ 216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
