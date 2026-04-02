@@ -1,0 +1,457 @@
+﻿13794
+
+
+SOILTILLAGEANDPREVIOUSCROPSONSOILATTRIBUTES INALONG-TERMPLOTIN NORTHEASTERN BRAZIL
+
+
+ABSTRACT - Long-term studies on conventional and conservationist soil tillage systemsassociated with cover crops contribute significantly to understanding the behavior of soilphysical and chemical attributes in various environmental conditions. This study aimed toanalyze the effects of conventional tillage, minimum tillage, and no-tillage systems, combinedwithdifferentcovercrops,onsoilbehaviorinlong-termplots.ConductedattheRuralCampus Experimental Station of the Universidade Federal de Sergipe, the experiment hasbeen ongoing since 2001 in dystrophic Red-YellowArgissol. The area was cultivatedwithcornfordualpurposes(cobsaleandforageproduction)underConventionalTillage(CT), Minimum Tillage (MT), and No-Tillage (NT) systems, each combined with differentcover crops, including sunn hemp, millet, pigeon pea, and cowpea. Soil samples were collectedfrom the 0.0–0.10 m and 0.10–0.20 m layers. NT demonstrated a statistically higher soildensity in the 0.0–0.10 m layer compared to other systems. Conservationist systems hadhigher levels of Total Organic Carbon (TOC) at the soil surface. NT also showed significantlyhigher Soil Organic Matter (SOM) in both layers compared to CT and differed from othersystems in carbon stock levels. Among the cover crops, Sunn hemp yielded the best outcomesfor SOM, TOC, and carbon stock. Conservationist tillage systems, particularly those pairedwithlegumes ascover crops,can enhancecarbon stockand improvesoil quality.
+
+
+Keywords:Soilquality.Conventionaltillage.Minimumtillage.No-tillage.Soilcarbon.
+
+
+PREPARO DO SOLO E CULTURAS ANTECEDENTES SOBRE ATRIBUTOS DO SOLO EM UMA PARCELA DE LONGO PRAZO NO NORDESTE DO BRASIL
+
+
+RESUMO-Estudosdelongoprazoemsistemasdepreparodosoloconvencionaleconservacionistas,associadosadiferentesculturasantecedentes,forneceminformaçõesessenciaissobreocomportamentodosatributosfísicosequímicosdosoloemdistintoscontextosambientais.Esteestudotevecomoobjetivoavaliarosefeitosdossistemasdepreparo convencional, cultivo mínimo e plantio direto, com diferentes culturas de cobertura,no comportamento do solo em parcelas de longa duração. A pesquisa foi realizada na EstaçãoExperimental Campus Rural da Universidade Federal de Sergipe, em parcelas implantadasdesde 2001, em ARGISSOLO VERMELHO-AMARELO distrófico. A área foi cultivada commilho, tanto para comercialização de espigas quanto para forragem, em sistemas de CultivoConvencional(CC),CultivoMínimo(CM)ePlantioDireto(PD),combinadoscomculturasde cobertura como crotalária, milheto, feijão guandu e feijão-de-corda. As amostras de soloforamcoletadasnascamadasde0.0-0.10me0.10-0.20m.Nacamadade0.0-0.10m,o
+plantiodiretoapresentoumaiordensidadedosoloemrelaçãoaosdemaissistemas.Ossistemas conservacionistas mostraram níveis elevados de Carbono Orgânico Total (COT) nasuperfície. O PD destacou-se com maiores teores de Matéria Orgânica do Solo (MOS) emambas as camadas e com maiores estoques de carbono. Entre as culturas de cobertura, otratamento com crotalária apresentou os melhores resultados em MOS, COT e estoque decarbono. Sistemas conservacionistas, especialmente com leguminosas, demonstram potencialpara aumentar o estoque de carbono e melhorar a qualidade do solo.
+
+
+Palavras-chave: Qualidade do solo. Cultivo convencional. Cultivo mínimo. Plantio direto.Carbonodo solo.
+
+
+INTRODUCTION
+
+
+Soil has the capacity to promote the development of plant species, and consequently thestorage and recycling of nutrients (ATHAR E KANWAL, 2022). However, soil is a resourcewith a potentially fast degradation rate, but with a very slow process of regeneration andformation.TheenvironmentsoftheNortheasternCoastalTablelandspredominantlyoriginated from sedimentary rocks, present soil types which behave different in comparison toother tropical regions subjected to degradation by erosion processesandnutritionaldepletion,duetounsustainablesoilmanagement,leadingtoloworganicmatter content (MORAES et al., 2020).
+Furthermore, high soil density values combined with soil resistance to penetration resultin reduced soil porosity, leading compacted soil layers limiting plant development, especiallythe root system (KAHLON; SINGH; DHINGRA, 2020), resulting in low crop production andlowwaterretentioncapacity. In addition, the type of soil plays an important role indensitybasedonitsmineralogicalnature,withagreaterorlesserfractionofclay(MOSSADEGHIBJÖRKLUND et al., 2019). Clayey soils tend to be more susceptible tocompaction due to their structure and lower porosity, which can result in greater soil density,increasing resistance to penetration and water infiltration (ZHAO et al., 2017).
+Therefore, it is necessary to use soil and water conservation techniques, favoring theincrease of soil biomass and the amount of organic matter, promoting the improvement of thesoil'sphysicalpropertiesanditscropyieldcapacity (WANG etal.,2020).
+Conservationist tillage systems such as Minimum tillage (MT) and No tillage (NT) tostructurally improve the soil, improving biological activity and increasing the content oforganicmatter.MinimumTillageincreasescarbonretentioninthesoil,reduceswaterevaporation, improves infiltration and promotes the gradual release of nutrients, and alsocontributes to increase the stock of organic carbon in the soil, consequently improving soilhealth and mitigating climate change.
+No-Tillage requires the adoption of crop rotation in the area, in which the plants providethe soil with greater nutrient cycling and favoring the crops used in succession (SILVA et al.,2020). Leguminous species can contribute to a greater increase in soil organic matter, inaddition contributing to increased productivity (MUHAMMAD et al., 2019). The use ofsunn hemp (Sunn hemp juncea), pigeon pea (Cajanus cajan) and cowpea (Vigna unguiculata(L.)) demonstrates a high capacity to promote nutrient accumulation and greater biomassproduction.
+The objective of this study was to evaluate the effects of conventional tillage, minimumtillage,and no-tillage systemswith different covercrops, on soilbehavior in long-termplots.
+
+
+MATERIALSANDMETHODS
+
+
+Descriptionofthestudyarea
+
+
+The study was carried out at the Campus Rural Research Station, of the UniversidadeFederal de Sergipe (UFS) (coordinates are 10° 55' 24.390" S 37° 11' 57.920" W), located inmunicipality of São Cristóvão, Sergipe state, northeastern Brazil. Experiments with differentsoiltillagesystemsandpreviouscropshavebeenconductedsincetheyearof2001in soil classified as a dystrophic Red-Yellow Argissol(SANTOS, et al., 2018), in an area with an average altitude of 22 m above sea level, with aclimate type AS' - tropical rainy with dry summer following the KOPPEN classification andaverage rainfall of approximately 1200 mm per year, with the rainy season between April andSeptember.
+
+
+Characterizationofthe experimentalarea anddatacollection
+
+The experimental area has been managed since 2001, in long-term plots with differentsoil tillage systems (Conventional Tillage-CT, Minimum Tillage-MT, and No-Tillage-NT)using the succession of green corn (Zea mays L.) followed by cover crops such as sunn hemp(Sunn hempjunceaL.),pigeonpea(CajanuscajanL.(MILLSP)),millet(PennisetumglaucumL.) and cowpea(Vigna unguiculata). (Figure 1).
+
+
+
+Figure 1. Sketch of the long-term plots at the Campus Rural Research Station.
+
+
+
+For conventional tillage system (CT), a disc plow was used as a primary step and aleveling harrow as secondary step, with a turning of 30 and 10 cm respectively. In minimumtillage(MT),onlythelevelingharrowwasusedasprimaryandsecondarysteps,withacutting depth around 10 cm; and for No-tillage (NT), no plowing was used from the secondyear of cropping.
+The experiment was organized in 12 plots, each experimental unit 60 m² (6m x 10m)size with a total of 36 subplots. Fertilization is carried out through the application of NPK intheformoftriplesuperphosphate,ureaandpotassiumchlorideindosesofN-120,P2O5–90and K 2 O - 110 kg. ha -1 and soil correction with liming, as necessary, based on the results ofsoil chemical analyses.
+Soilsampleswerecollectedbeforecorn(ZeamaysL.)plantingandafterthedecomposition period of the previous crops, between March and April 2022. Small trencheswere opened within each plot, from where two deformed samples and one undisturbed samplewere collected at a depth of 0.0–0.10 m and 0.10–0.20 m, in a total of 24 samples per tillagesystem and 72 samples in the experimental area.
+The samples were taken to the Erosion and Sedimentation Laboratory (LABES) of UFS,dried in ovens, de-clumped, sieved with a 2.0 mm mesh to obtain air-dry fine soil andanalyzed according to the methodology described in the Soil Analysis Manual and then sentfor analysis to the Soil Remediation Laboratory (LRS) of UFS to determine total organiccarbon via wet oxidation using the method Yeomans e Bremner, (1988). The organic matterstock was calculated using the soil density and the thickness of each evaluated layer and theBremner factor 1.724.
+
+
+Statistical analysis
+
+
+Analysis of variance (ANOVA) was used to examine differences of Total OrganicCarbon (TOC) and Soil Organic Matter (SOM), carbon stock and soil bulk density accordingto different soil tillage system and previous crops. The Kolmogorov-Smirnov and Shapiro-Wilktestswereusedtoassessdatanormality(HANUSZ;TARASINSKA;ZIELINSKI,2016),whiletheassumptionofhomogeneityofvariancewasverifiedbyLevene'stest(SCHULTZ,1985).
+Given the lack of homogeneity and normality in the data, we opted to use bootstrappingprocedures (1000 resamplings; 95% CI BCa), in order to reach greater reliability of the resultsand correction of deviations from the normality of the sample distribution, in addition toproviding a 95% confidence interval for the differences between the means. Furthermore, thebootstrap method does not require as many assumptions to estimate the parameters of thedistributions of interest; it generally provides more accurate answers; and does not depend onthe original distribution of the data.
+The bootstrap confidence interval was estimated by fitting each of the 1000 data setsresampledfromtheoriginaldatasettothemodel.Whenthereisnoconvergenceofatleast 50% of the cases, the procedure is stopped and no result is provided. Post-hoc analyses andcomparisons between groups were performed using the Duncan test.
+Subsequently, multiple linear regression analyses (forward method) were conducted onthetotalorganiccarbon,soilorganicmatter,carbonstockandsoildensitycontentsindifferenttreatments. All tests were performed using IBM® SPSS® software (SPSS CORP, 2017),considering results with p < 0.05 as statistically significant.
+
+
+
+
+RESULTSANDDISCUSSION
+
+
+Effectofsoilpreparationandcovercropsonsoildensity
+
+
+The analysis of variance (ANOVA) performed for soil density (g/cm³) of 0.0 – 0.10 mdepth suggests that the used tillage systems have a strong influence on the variable [F(2, 96) =4.990; p = 0.009]. The mean density values are presented in Table 1, together with thecontribution of cover crops to this variable.
+Forthedifferenttillagesystems,thesizeeffectwhenindividuallyanalyzedwaslow(η²= 0.094), indicating that the tillage method individually explains approximately 9.4% of thevariability in the studied depth from 0 to 0.10 m. Furthermore, the observed power was 0.802,indicating that there is a high probability that the observed effect is, in fact, significant(NTUMI, 2021). Furthermore, the previous crops, when individually analyzed, did not presentstatistically significant data [ F (3, 96) = 1.896; p = 0.135], with an eta (η²) of 0.006 and anobserved power of 0.477.
+
+
+Table 1. Analysis of variance of soil density (g.cm3) in different tillage systems associatedwiththe different previous crops.
+
+Origin
+Sum Squarea
+df
+Mean Square
+Z
+Sig.
+Partial Eta2
+(η²)
+Observed powerb
+Tillage systems
+0.319
+2
+0.159
+4.990
+0.009
+0.094
+0.802
+Previous crops
+0.182
+3
+0.061
+1.896
+0.135
+0.006
+0.477
+Tillage systems * Previous crops
+0.676
+6
+0.113
+3.528
+0.003
+0.181
+0.938
+Standard
+3.066
+96
+0.032
+
+
+
+
+Total corrected
+4.242
+107
+
+
+
+
+
+Note: a. R 2 = 0.420, b. Calculated with alpha = 0.5%
+
+
+Analyzing the interaction between the different soil tillage systems and the previouscrops on soil density, a statiscally significant interaction was observed [ F (6, 96) = 3.528; p =0.003], with a greater intensity effect (η² = 0.181), presenting an observed power of 0.938.Indicating that the association of tillage systems and previous crops explains approximately18.1% of soil density. These results suggest that the combination of these variables provides asignificantly greater impact on soil density compared to the observed effects when thesevariables are individually analyzed.
+The multiple comparison analysis (Duncan) of the variable tillage system, as presentedin Table 2, the soil density in No-Tillage (NT) differs significantly from conventional tillage(CT),withanaveragedifferenceof0.128g cm³(p=0.008).However,therewasnosignificantdifferencebetweenNTand MT,norbetweenCTand MT.
+Still at a depth of 0 – 0.10 m, when the vamriables are analyzed together (tillage systemand previous crops), No-Tillage (NT) presents a higher average density for all previous cropscompared to other tillage systems. When analyzing the previous crops together with the NT,Sunn hemp presented the lowest average soil density (1.700 g cm³), and Pigeon Pea the cropwiththehighestaveragedensity(1.784g cm³),theothercropsdidnotdifferstatistically.
+The higher observed density in NT can be attributed to the lower soil disturbance in along-term continuous tillage system, because of soil accommodation and surface pressure dueto the heavy load exerted on the soil during planting operations, application of lime andfertilizers, and harvesting. Although, Blanco-Canqui et al. (2022) found in a broad review thatno-tillage systems in most of the evaluated tillage systems did not present soil compactionwhen there was a greater contribution of SOM from harvest residue leading to greater soilaggregation. The lower soil density found in the present soil under minimum tillage (MT)is justified by the smalldisturbance that occurred in the soil that contributes to the breaking of the existing sealing.
+Amongthepreviouscropswithhighersoildensityarethosethatpresentgreaterdeposition of organic matter, such as pigeon pea and cowpea (Table 2). Furthermore, NT iseffectiveinimprovingtheorganiccarboncontentinthesoilfavoringsoilaggregation,which
+has its negative effects reduced when greater addition of straw occurs (CUI et al., 2024). Thisaggregation is also favored by cationic bonds, acting as bridges between clay particles andorganic matter, providing the formation of aggregates and improving soil structure (HAN;ZHOU; REN, 2021).
+
+
+
+
+
+Table 2. Posthoc test of soil density (gcm3) under Conventional tillage (CT), Minimum tillage (MT) and No-tillage (NT) associated with the different previous crops.
+
+Tillage systems
+Previous Crops
+Soil Density(gcm3)
+
+
+
+0.0 – 0.10 m
+0.10 – 0. 20 m
+CT
+Cowpea
+1.631 (0.09)aB
+1.703 (0.03) aB
+
+Millet
+1.622 (0.26)aB
+1.742 (0.11) aA
+
+Crotalaria
+1.829 (0.22)b.b
+1.896 (0.25) Ab
+
+Pigeon Pea
+1.749 (0.05)abA
+1.835 (0.05) Aab
+MT
+Cowpea
+1.473 (0.14)aC
+1.761 (0.11) abAB
+
+Millet
+1.813 (0.40)BC
+1.954 (0.47) bA
+
+Crotalaria
+1.601 (0.09)bA
+1.726 (0.07) abB
+
+Pigeon Pea
+1.565 (0.10) baA
+1.694 (0.07) aB
+NT
+Cowpea
+1.749 (0.05)abA
+1.808 (0.04) aA
+
+Millet
+1.731 (0.05)abA
+1.822 (0.05) aA
+
+Crotalaria
+1.700 (0.09)aB
+1.807 (0.05) aAB
+
+Pigeon Pea
+1,784(0.07)aA
+1.745 (0.17) aAB
+
+In Minimum tillage (MT), soil density in the 0-10cn layer showed greater variabilityamongcrops.Cowpeaandpigeonpeahadthelowestaveragesoildensity(1.473gcm³and
+1.565gcm³).Millethadthehighestaveragedensity(1.813gcm³)amongcropswhenassociated with the minimum tillage.
+This variability can be attributed to the differences between MT and NT. Minimumtillage, which involves lower soil disturbance, tends to maintain a more intact soil structure,butwithgreater soildisturbancecompared toNT, resultinginlower densityvalues.
+It is also important to note that, since corn is grown in a tropical climate, organic matterdecomposesmorequicklyinConventionaltillage(CT)duetogreatersoildisturbance,especially in the upper layers (0 – 0.10 m) (FUJII et al., 2022). In tropical regions, hightemperatures accelerate the decomposition of organic matter when it is exposed on the soilsurface. This decomposition process reduces the amount of organic matter that would beavailable to improve the colloidal structure of the soil (SHAHZAD et al., 2021). Thus, greatersoil exposure due to more invasive cropping practices can lead to fast mineralization oforganicmatter, reducing thesoil's ability to formstable aggregates.
+On the other hand, in Conventional tillage (CT), soil density in the 0-10 cm layer washigher for all previous crops treatmenrs, with Millet having a statistically significant loweraverage soil density (1.622 gcm³) while sunn hemp had the highest statistically significantaverage density among the previous crops (1.631 gcm³). Other previous crops did not presentsignificantdifferences (Table 2).
+Itwasobservedthat,forthedepthof0.10–0.20m,No-Tillage(NT)alsopresentedhigh soil density values compared to the depth of 0.0 – 0.10 m, especially when associatedwithcropssuchasmillet,whichpresentedanaveragedensityof1.822gcm³.However,unlike the most superficial layer, the soil density in NT for the depth of 0.10 – 0.20 m did notpresent statistically significant variations between the different previous crops, indicating asmaller influence of these on soil compaction in this depth range.
+In the case of Minimum tillage (MT), there was a statistically significant increase in soildensity at a depth of 0.10 – 0.20 m, especially when associated with millet, which recorded anaverage density of 1.954 gcm³, followed by Cowpea with 1.761 gcm³. This initial reductionin compaction is associated with the minimum soil plow of from the use of light implementsovertheyears,atadepthof0.30m(LAMANDÉ;SCHJØNNING,2011),exertingareductionin the breakdown of soil aggregates even at this depth (up to 0.20 m) (PULIDO-MONCADA;MUNKHOLM; SCHJØNNING, 2019). This behavior can be confirmed by the similaritybetweenMinimumtillage(MT)andConventionaltillage(CT),withlesspronouncedvariations between the different previous crops, but with a soil density slightly lower than thatobservedin NT.
+These results indicate that the depth of 0.10–0.20 m is less susceptible to variationscaused by previous crops, being more influenced by the type of used tillage system. Thus,tillage systems that minimize soil disturbance tend to maintain a higher density at greaterdepths, contributing to soil compaction and reduction of soil porosity, which can impact waterinfiltrationand rootdevelopment (WANGetal., 2019).
+Tillage systems with reduced or no soil disturbance tend to produce more cohesivelayers on the surface. Denardin et al., (2019) observed similar results, where NT conditionedby crop rotation presented the highest density values when compared to the other systems, CTand MT. Furthermore, conservation systems such as NT reduce the susceptibility of the soil tosealing and surface degradation, improving the stability of aggregates against disaggregationforces(GRANDINETTI;CANTEROMARTÍNEZ;RAMOS,2022),whichcanpromotegreater soil density in the most superficial layers (SHAHGHOLI et al., 2023).
+
+
+
+EffectofsoiltillageandpreviouscropsonTotalOrganicCarboncontent
+
+
+Theanalysisof variance(ANOVA) performedfor organicmatter(dag kg-1)at adepth of
+0.0 – 0.10 m indicates that the tillage used systems exert a significant influence on thisvariable [F(2, 96) = 34.348; p = 0.000]. The mean values of total organic matter are presentedin Table 3, together with the contribution of previous crops. For the different tillage systems,the effect size, when analyzed individually, was large (η² = 0.417), indicating that the tillagemethod individually explains approximately 41.7% of the variability at the studied depth of 0to 0.10 m. Furthermore, the observed power was 1.000, indicating a very high probability ofdetecting a significant effect of the test. The previous crops, when analyzed individually, alsopresentedstatisticallysignificantdata[F(3,96)=10.838;p<0.000],withapartialeta(η²)of
+0.253 and an observed power of 1.000.
+
+Theinteractionbetweensystemsandpreviouscropswassignificant[F(6,96)=8.886;p
+> 0.000], with a moderate magnitude effect (η² = 0.357). These results indicate that thecombination of these variables exerts a significantly greater impact on total organic mattercomparedtothe observedeffectswhen thesevariablesare analyzedindividually.
+
+
+
+
+Table 3. Analysis of variance of Organic Matter in the soil (dag kg -1) in Conventional tillage(CT), Minimum tillage (CT) and No-tillage (NT) systems associated with the differentprevious crops.
+Origin
+Sum ofSquaresa
+df
+Mean Square
+Z
+Sig.
+Partial Eta2 (η²)
+Observedpowerb
+Tillage System
+.,689
+2
+0.845
+34.348
+0.000
+0.417
+1.000
+Previouscrops
+0.800
+3
+0.267
+10.838
+0.000
+0.253
+1.000
+Tillage System * Previouscrops
+1.311
+6
+0.219
+8.886
+0.000
+0.357
+9.890
+Standard
+2.361
+96
+0.025
+
+
+
+
+Total
+153.137
+108
+
+
+
+
+
+Total corrected
+6.160
+107
+
+
+
+
+
+Note: a. R 2 = 0.617, b. Calculated with alpha = 0.5%
+
+
+
+The total organic matter data indicate that the most conservationist systems, such as No-Tillage(NT)andMinimumtillage(MT),presenthighertotalorganicmattercontentsinthe0
+– 0.10 m layer, differing statistically from Conventional tillage (CT). Table 4 shows theaverage values of total organic matter, as well as the differentiation between soil tillagesystems and the use of previous crops.
+IntheNTsystem,cowpeaandsunn hemppresentedthehighestlevelsoforganicmatterat a depth of 0.0 – 0.10m, with values of 1.402 dagkg and 1.376 dagkg-1, respectively, whichare not statistically different. However, these values differed statistically from the CT, wherethesameculturesmentionedabovepresentedvaluesof0.744dagkg-1and1.137dagkg-1,respectively. Furthermore, at the depth of 0.10 – 0.20 m, organic matter was also higher in theNT system compared to the MT and CT. For example, millet in the NT had an organic mattercontent of 0.953 dagkg-1, while in the CT it was 0.551 dagkg-1, and in the MT an even lowervalue of 0.488 dagkg-1. Management systems that prioritize minor soil disturbances providegreater formation of SOM due to the physical protection of the organo-mineral interaction thatallows greater stabilization of C in the soil.
+InMinimumtillage(MT),organicmattervaluesatadepthof0–0.10mvariedbetween
+1.132 dagkg-1 (sunn hemp) and 1.344 dagkg-1 (pigeon pea), proving to be higher than the valuesfoundinCT.Atadepthof0.10–0.20m,thevalueswerelower,varyingbetween0.413dagkg-1(cowpea)and 0.589dagkg-1(pigeonpea), buttheystill differentfromCT.
+
+
+Table4. Distributionfrom theorganic matter OM (dag kg-1)in Conventional tillage (CT),Minimumtillage (MT) and No-tillage(NT) associated with thedifferent previous crops.
+
+
+Tillage systems
+Previous Crops
+Soil O.M (dag kg-1)
+
+
+
+Soil depth
+
+
+0.0 – 0.10 m
+0.10 – 0.20 m
+CT
+Cowpea
+0.744 (0.13) bB
+0.568 (0.13) aB
+
+Millet
+0.879 (0.08) bB
+0.551 (0.09) aB
+
+Crotalaria
+1.137 (0.21) aB
+0.698 (0.12) bB
+
+Pigeon pea
+1.198 (0.06) aB
+0.896 (0.28) bB
+MT
+Cowpea
+1.157 (0.28) bA
+0.413 (0.26) BC
+
+Millet
+1.166 (0.11) bA
+0.488 (0.08) BC
+
+Crotalaria
+1.132 (0.14) aA
+0.557 (0.07) BC
+
+Pigeon pea
+1.344 (0.14) BC
+0.589 (0.12) BC
+NT
+Cowpea
+1,402 (0.11) bA
+0.884 (0.20) aA
+
+Millet
+1.155 (0.07) bA
+0.953 (0.13) aA
+
+Crotalaria
+1.376 (0.22) aA
+1.152 (0.15) bA
+
+Pigeon pea
+1.111 (0.09) aA
+0.721 (0.12) bA
+
+
+Thefindingsshowedthatlong-termconservationtillagesystemsareeffectiveinmaintaining and increasing soil organic matter contents, especially in the surface layer ofRED-YELLOWARGISSOIL(0–0.10m),comparedtoCT.ThisconditionofincreasingOMcontentswasalsoinvestigatedbyLietal.(2020),observingthatNo-Tillage(NT)andMinimumtillage(MT)increasedsoilorganiccarbon(SOC)stockby11%and6%,respectively, compared to Conventional tillage (CT), with more pronounced effects in thesurfacesoil layer.
+The greateraccumulation of organic matter occurs in the initial layers of soils cultivated under No-Tillage, can be attributed to the subsequent deposition of cover crops and theretention of crop residues, highlighting the importance of combining conservation practices toimprove soil quality. Furthermore, a study by Sun et al., (2020) demonstrated that, after eightyears of conservation tillage systems, improvements occurred in soil aggregation and nutrientstorage in the surface layer, reinforcing the effectiveness of these practices in soil and waterconservation.
+
+
+Organic carbon in soil
+
+
+At depths of 0.0 – 0.10 m and 0.10 – 0.20 m, the analysis of variance showed asignificanteffectofthesoiltillagesystem[F(2,96)=34.348;p<0.001]and[F(2,96)=66.652; p < 0.001], presented respectively. The effect size was moderate, with η² = 0.417 andη² = 0.581 at the studied depths. The data indicate that the different studied tillage systemsexplain 41.7% of the variance of organic carbon at the depth of 0.0 – 0.10 m and 58.1% at thedepth of 0.10 – 0.20 m (Figure 2).
+Considering the previous crops, the analysis of variance showed that the total organiccarbon in the soil had a significant effect on the soil for the depth of 0.0 – 0.10 m [ F (3, 96) =10.838; p < 0.001] but with a low power of effect (η²) of 0.253, indicating that the previouscrops explain 25.3% of the variance of organic carbon at this depth. The interaction betweenthe tillage system and the previous crops was also significant [ F (6, 96) = 8.886; p < 0.001],with a low power of effect (η²) of 0.357, suggesting that this interaction explains 35.7% of thevarianceof organic carbon.
+The observed data indicate that the different soil tillage systems considering the of corncrop were important for the deposition of soil organic carbon, especially in subsurface layers(0.10 to 0.20 m), explaining up to 58.1% of the observed variance. The influence of previouscrops, although significant, is less pronounced, explaining 25.3% of the variance of organiccarbonin the surface layer.
+The interaction between these factors, soil tillage and previous crops, is also relevant,contributingto35.7%ofthevariance,suggestingthatthecombinationofmanagementpractices and crop choice can be strategic to maximize carbon retention in the soil. Thisgreaterimpactofsoiltillageindeeperlayerssuggeststhatlong-termsoilmanagementpractices are crucial for carbon retention, particularly in tropical regions (COOPER et al.,2021).Thedecompositionoforganicmatterisacceleratedwhensubjectedtohightemperatures, where the greater concentration of OM in the upper layers promotes thermalstabilityin deeper layers(WANG, et al.,2020).
+Furthermore, the fast decomposition of organic matter in tropical climates is driven byhigh microbial activity favored by high temperatures, increasing the rate of mineralization oforganic carbon and its release as CO. Under these conditions, the exposure of organic matteron the soil surface, resulting from soil tillage practices, promotes greater mineralization ofnutrients and increases the consumption of available carbon stocks (LEIZEAGA et al., 2022).Soil carbon stabilization is also influenced by geological and environmental interactions thatcontrol the dynamics of organic carbon (SCHMIDT et al., 2011), explaining the interactionsexogenous to the studied variables.
+To obtain more significant depositions of soil organic carbon by previous crops, thissystemmustbeassociatedwithconservationistsoiltillagesystemsthatminimizetheexposure of organic matter and promote the formation of stable aggregates (DOETTERL etal., 2015). Among the previous crops, considering only no-till, sunn hemp and pigeon pea presentedthe highest averages of organic carbon at the superficial depth (0.0 – 0.10 m), withaverage values of 0.798 and 0.645 gkg, respectively (Figure 2). At a depth of 0.10 – 0.20 m,the values were 0.426 g/kg and 0.469 gkg, respectively. Furthermore, the use of sunn hemp in association with poaceae tends to release nutrientsmoreslowly.Plantmorphology,rootdevelopment,andnitrogenfixationcapacityarecommonfactors that contribute to sunn hemp and cowpea presenting a greater accumulation of TotalOrganicCarbon in the soil,whether on the surface orsubsurface (SIMUNJI et al.,2019).
+
+
+
+
+
+Figure2.DistributionTotalOrganicCarbon(gkg)consideringConventionaltilllage(CT),Minimumtillage (MT)and No-tillage (NT)associated with thedifferent previous crops.
+Note:Thesamplemeanvalueofeachvariableisdisplayedadjacenttoeachbar.Errorbarsrepresent 95% confidence intervals.
+
+
+CONCLUSION
+
+No-tillage has proven to be an effective conservation system for increasing organiccarbon content in the soil, promoting particle aggregation due to reduced disturbance andenhancedstabilityoforganicmatter.Inminimumtillagesystems,soildensityvariessignificantly according to previous crops, with legumes such as cowpea and pigeon peashowingloweraveragesoildensities,whereasmilletexhibitsthehighestdensities.Amongthe studied previous crops, sunn hemp and pigeon pea stood out as those that contributed mostto higher organic carbon levels in the analyzed soil layers. These findings underscore theimportanceofusinglegumesascovercrops,giventheirnitrogen-fixingcapabilitiesanddeeproot development, which facilitate the accumulation of organic carbon. The adoption of soilmanagement systems that minimize disturbance, such as minimum tillage and no-tillage,combined with the use of legumes as cover crops, can maximize carbon retention and increasesoil quality for green corn production. Sustaining these practices over time is essential toensurethesustainabilityandproductivityofagriculturalsystems,particularlyintropicalregionswhere thedecomposition of organicmatter occursrapidly.
+
+
+
+
+REFERENCES
+
+
+ATHAR,T.;KANWAL,N.Significanceofsoilhealthandsoillifeforsustainablefoodproduction.emergent Life Sciences Research, 08: 01–04, 2022.
+
+COOPER,H.V.etal.Longtermzerotillageenhancestheprotectionofsoilcarbonintropicalagriculture. European Journal of Soil Science,72: 2477–2492, 2021.
+
+CUI,Y.etal.Effectsofno-tillonuplandcropyieldandsoilorganiccarbon:aglobalmeta-analysis. Plant and Soil, 499: 363–377, 2024.
+
+DENARDIN, L. G. de O. et al. No-tillage increases irrigated rice yield through soil qualityimprovementalong time. Soil andTillage Research, 186: 64–69, 2019.
+
+DOETTERL, S. et al. Soil carbon storage controlled by interactions between geochemistryandclimate. Nature Geoscience, 8: 780–783, 2015.
+
+FUJII, K. et al. Correction to: Continuous maize cropping accelerates loss of soil organicmatterinnorthernThailandasrevealedbynatural13Cabundance.PlantandSoil,474:263–263,2022.
+GRANDINETTI, L.; CANTERO MARTÍNEZ, C.; RAMOS, M. C. Aggregate stability andsoil surface sealing in irrigated soils under notillage versus conventional tillage. Land
+Degradation & Development, 33: 2379–2389, 2022.
+
+HAN, Z. G.; ZHOU, Y. C.; REN, J. J. Effects of organic matter-bound multivalent cations onthe internal and external formation of soil aggregates under Pinus massonianaforest. JournalofSoil andWaterConservation, 76:568–576, 2021.
+
+HANUSZ,Z.;TARASINSKA,J.;ZIELINSKI,W.Shapiro-Wilktestwithknownmean.
+REVSTAT-StatisticalJournal,14:89–100,2016.
+
+KAHLON, M. S.; SINGH, C. B.; DHINGRA, M. Effect of Compaction and IrrigationRegimesonSoilPhysicalCharacteristics,Emergence,GrowthandProductivityofSummerMoongbean.Legume research -an international journal, 46:473-481, 2020.
+
+LAMANDÉ,M.;SCHJØNNING,P.Transmissionofverticalstressinarealsoilprofile.PartI: Site description, evaluation of the Söhne model, and the effect of topsoil tillage. Soil andTillageResearch, 114: 57–70,2011
+
+LEIZEAGA,A. etal.Using aTropical ElevationGradient toEvaluatethe Impactof
+LandUse Intensity and Forest Restoration on the Microbial Use of Organic Matter UnderClimate Change. Global Biogeochemical Cycles, 36: e2021GB007109, 2022.
+
+MORAES,M.T.etal.SoilcompactionimpactssoybeanrootgrowthinanOxisolfromsubtropicalBrazil. SoilandTillageResearch, 200: 104611,2020.
+
+MOSSADEGHIBJÖRKLUND, M. et al. Effects of compaction on soil hydraulic properties,penetration resistance and water flow patterns at the soil profile scale. Soil Use and
+Management, 35: 367–377, 2019.
+
+MUHAMMAD, I. etal. Regulationof soil CO2and N2Oemissions bycover crops:Ameta-analysis.Soil andTillageResearch, 92: 103–112, 2019.
+
+NTUMI, S. Reporting and Interpreting One-Way Analysis of Variance (ANOVA) Using aData-Driven Example:APractical Guide for Social Science Researchers. Journal of
+ResearchinEducational Sciences,12: 38,2021.
+
+PULIDO-MONCADA,M.;MUNKHOLM,L.J.;SCHJØNNING,P.Wheelload,repeatedwheeling, and traction effects on subsoil compaction in northern Europe. Soil and TillageResearch,186: 300–309, 2019.
+
+SCHMIDT,M.W.I.etal.Persistenceofsoilorganicmatterasanecosystemproperty.
+Nature,478:49–56,2011.
+
+SCHULTZ,B.B.Levene’sTestforRelativeVariation.SystematicBiology,34:449–456,1985.
+
+SHAHGHOLI, G. et al. Investigating the Effect of Tractor’s Tire Parameters on SoilCompaction UsingStatisticalandAdaptiveNeuro-FuzzyInferenceSystem (ANFIS)Methods.Agriculture,13: 259, 2023.
+
+SHAHZAD, H. et al. Managing organic carbon of sandy clay loam soil with organicamendments to promote particle aggregation. Arabian Journal of Geosciences, 14: 275,2021.
+
+SILVA,P.C.G.etal.No-tillageandcroprotationincreasecropyieldsandnitrogenstocksinsandysoils under agroclimaticrisk. Field Crops Research,258: 107947. 2020.
+
+SIMUNJI, S. et al. Evaluation of Cowpea (Vigna unguiculata L.walp) Genotypes forBiological Nitrogen Fixation in Maize-cowpea Crop Rotation. Sustainable AgricultureResearch,8: 82, 2019.
+
+SPSSCORP,R.2017.IBMSPSSStatisticsforMacintosh,Version25.0.Released2017,Armonk,NY, ed. 24,2017.
+
+SUN, L.; LI, J. et al. The effects of eight years of conservation tillage on the soilphysicochemical properties and bacterial communities in a rainfed agroecosystem of theloess plateau, China. Land Degradation & Development, 31: 2475–2489, 2020.
+
+WANG,H.etal.Notillageincreasessoilorganiccarbonstorageanddecreasescarbondioxideemissionin the crop residue-returned farming system. Journalof Environmental
+Management,261:110261,2020.
+
+WANG,S.etal.Effectofsubsoilingdepthonsoilphysicalpropertiesandsummermaize(ZeamaysL.) yield. Plant, Soil and Environment, 65: 131–137, 2019.
+
+WANG,X.etal.Organicmanureinputimprovessoilwaterandnutrientsuseforsustainablemaize (Zea mays L) productivity on the Loess Plateau. PLOS ONE, 15: e0238042, 2020.
+
+YEOMANS, J. C.; BREMNER, J. M.Arapid and precise method for routine determination oforganic carbon in soil. Communications in Soil Science and Plant Analysis, 19: 1467–1476,1988.
+
+ZHAO, X. etal.Cropyieldsunderno-tillfarminginChina:Ameta-analysis.EuropeanJournalofAgronomy, 84: 67–75, 2017

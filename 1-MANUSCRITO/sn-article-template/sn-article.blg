@@ -5,48 +5,51 @@ Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: sn-basic.bst
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 Database file #1: sn-bibliography.bib
+Warning--I didn't find a database entry for "Yoshioka2024"
+Warning--I didn't find a database entry for "Brito2024"
+Warning--I didn't find a database entry for "Granata2024"
 sn-basic.bst [2024/07/19 v1.1 bibliography style]
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Warning--can't use both volume and number fields in Hair2019
-You've used 50 entries,
+You've used 49 entries,
             3567 wiz_defined-function locations,
-            1110 strings with 16922 characters,
-and the built_in function-call counts, 45355 in all, are:
-= -- 4283
-> -- 1803
+            1109 strings with 16724 characters,
+and the built_in function-call counts, 44420 in all, are:
+= -- 4196
+> -- 1762
 < -- 20
-+ -- 696
-- -- 536
-* -- 4005
-:= -- 6561
-add.period$ -- 93
-call.type$ -- 50
-change.case$ -- 447
-chr.to.int$ -- 56
-cite$ -- 51
-duplicate$ -- 3404
-empty$ -- 3717
-format.name$ -- 680
-if$ -- 9509
++ -- 680
+- -- 524
+* -- 3920
+:= -- 6424
+add.period$ -- 91
+call.type$ -- 49
+change.case$ -- 438
+chr.to.int$ -- 55
+cite$ -- 50
+duplicate$ -- 3335
+empty$ -- 3642
+format.name$ -- 665
+if$ -- 9313
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 394
-newline$ -- 159
-num.names$ -- 200
-pop$ -- 1050
+missing$ -- 386
+newline$ -- 156
+num.names$ -- 196
+pop$ -- 1029
 preamble$ -- 1
-purify$ -- 392
+purify$ -- 384
 quote$ -- 0
-skip$ -- 994
+skip$ -- 973
 stack$ -- 0
-substring$ -- 3946
-swap$ -- 985
+substring$ -- 3867
+swap$ -- 967
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 444
+type$ -- 435
 warning$ -- 1
-while$ -- 270
+while$ -- 265
 width$ -- 0
-write$ -- 602
-(There was 1 warning)
+write$ -- 590
+(There were 4 warnings)

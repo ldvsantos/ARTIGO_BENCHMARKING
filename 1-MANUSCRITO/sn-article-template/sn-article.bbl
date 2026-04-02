@@ -1,4 +1,4 @@
-\begin{thebibliography}{50}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -146,12 +146,6 @@ Liu S, Zhang X, Wang Y, et~al (2025) Evaluation of cultivated land quality
   based on principal component analysis and fuzzy scoring under different
   cropping systems in the black soil region of {China}. Ecological Indicators
   170:112100. [VERIFICAR DADOS BIBLIOGR\'{A}FICOS REAIS ANTES DA SUBMISS\~{A}O]
-
-\bibitem[{Lopes et~al.(2021)Lopes, Aurl{\'i}n, Geber, and Kuramae}]{Lopes2021}
-Lopes LD, Aurl{\'i}n D, Geber P, et~al (2021) Shifts in microbial and
-  physicochemical parameters associated with increasing soil quality in a
-  tropical {Ultisol} under high seasonal variation. Soil and Tillage Research
-  206:104822. \doi{10.1016/j.still.2020.104822}
 
 \bibitem[{Lundberg and Lee(2017)}]{Lundberg2017}
 Lundberg SM, Lee SI (2017) A unified approach to interpreting model
