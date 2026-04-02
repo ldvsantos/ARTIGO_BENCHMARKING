@@ -1,4 +1,4 @@
-%% ============================================================
+﻿%% ============================================================
 %% Supplementary Material
 %% Multi-paradigm benchmarking for integrated soil quality
 %% assessment under conservation management in a tropical Ultisol
@@ -6,6 +6,7 @@
 \documentclass[12pt]{article}
 \usepackage[a4paper,margin=2.5cm]{geometry}
 \usepackage{booktabs}
+\usepackage{multirow}
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{amsmath}
@@ -26,7 +27,7 @@ under conservation management in a tropical Ultisol}\\[12pt]
 \noindent This document contains four supplementary tables referenced in the main manuscript.
 
 %% ============================================================
-%%  TABLE S1 — PCA eigenvalues and component weights
+%%  TABLE S1 â€” PCA eigenvalues and component weights
 %% ============================================================
 \clearpage
 \begin{table}[ht]
@@ -44,7 +45,7 @@ PC5  & 2.566 & 7.55  & 66.79 & 0.097 \\
 PC6  & 2.435 & 7.16  & 73.95 & 0.092 \\
 PC7  & 1.794 & 5.28  & 79.23 & 0.068 \\
 PC8  & 1.471 & 4.33  & 83.56 & 0.056 \\
-\botrule
+\bottomrule
 \end{tabular}
 \smallskip
 
@@ -52,7 +53,7 @@ PC8  & 1.471 & 4.33  & 83.56 & 0.056 \\
 \end{table}
 
 %% ============================================================
-%%  TABLE S2 — Complete fuzzy rule base
+%%  TABLE S2 â€” Complete fuzzy rule base
 %% ============================================================
 \clearpage
 \begin{table}[ht]
@@ -89,7 +90,7 @@ Sub-index (inputs) & Rule & Antecedent pattern & Output & Weight \\
  & E6 & M, M, H, M & H & 1.10 \\
  & E7 & M, H, M, M & H & 1.15 \\
  & F1--F12 & Main-effect fallback$^a$ & L/M/H & 0.1 \\
-\botrule
+\bottomrule
 \end{tabular}
 \smallskip
 
@@ -97,7 +98,7 @@ Sub-index (inputs) & Rule & Antecedent pattern & Output & Weight \\
 \end{table}
 
 %% ============================================================
-%%  TABLE S3 — PLS-SEM diagnostics
+%%  TABLE S3 â€” PLS-SEM diagnostics
 %% ============================================================
 \clearpage
 
@@ -114,7 +115,7 @@ MICRO $\to$ YIELD     &    0.175 &    0.119 & 0.127 & 1.39  & [$-$0.22,\;0.28]  
 AGRO $\to$ YIELD      &    0.622 &    0.608 & 0.051 & 12.30 & [\phantom{$-$}0.50,\;0.70] & $<$0.001 \\
 \midrule
 \multicolumn{7}{l}{$R^2 = 0.690$; Adj.\ $R^2 = 0.678$; Bootstrap: 500 resamples, seed = 42.} \\
-\botrule
+\bottomrule
 \end{tabular}
 \end{table}
 
@@ -159,7 +160,7 @@ Construct & Indicator & Weight & Boot.\ SD & $t$ & 95\% CI & $p$ \\
 \multirow{2}{*}{YIELD}
  & NESP  &  0.534 & 0.051 & 10.46 & [\phantom{$-$}0.44,\;0.62] & $<$0.001 \\
  & PESP  &  0.643 & 0.052 & 12.34 & [\phantom{$-$}0.56,\;0.76] & $<$0.001 \\
-\botrule
+\bottomrule
 \end{tabular}
 \smallskip
 
@@ -167,7 +168,7 @@ Construct & Indicator & Weight & Boot.\ SD & $t$ & 95\% CI & $p$ \\
 \end{table}
 
 %% ============================================================
-%%  TABLE S4 — RF variable importance
+%%  TABLE S4 â€” RF variable importance
 %% ============================================================
 \clearpage
 \begin{table}[ht]
@@ -211,7 +212,7 @@ Rank & Indicator & Domain & \%IncMSE & IncNodePurity \\
 32 & WMD   & Physical     & 3.30 & 1.56 \\
 33 & Na    & Physical     & 2.97 & 1.10 \\
 34 & BD    & Physical     & 2.95 & 1.05 \\
-\botrule
+\bottomrule
 \end{tabular}
 \smallskip
 
