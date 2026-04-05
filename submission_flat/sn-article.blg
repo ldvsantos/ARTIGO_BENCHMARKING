@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sn-article.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: sn-basic.bst
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Database file #1: sn-bibliography.bib
+sn-basic.bst [2024/07/19 v1.1 bibliography style]
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Warning--can't use both volume and number fields in Hair2019
+You've used 67 entries,
+            3567 wiz_defined-function locations,
+            1238 strings with 20663 characters,
+and the built_in function-call counts, 60212 in all, are:
+= -- 5714
+> -- 2301
+< -- 31
++ -- 890
+- -- 684
+* -- 5291
+:= -- 8688
+add.period$ -- 124
+call.type$ -- 67
+change.case$ -- 590
+chr.to.int$ -- 79
+cite$ -- 68
+duplicate$ -- 4563
+empty$ -- 4985
+format.name$ -- 877
+if$ -- 12632
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 530
+newline$ -- 210
+num.names$ -- 268
+pop$ -- 1388
+preamble$ -- 1
+purify$ -- 514
+quote$ -- 0
+skip$ -- 1288
+stack$ -- 0
+substring$ -- 5335
+swap$ -- 1322
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 594
+warning$ -- 1
+while$ -- 365
+width$ -- 0
+write$ -- 806
+(There was 1 warning)
